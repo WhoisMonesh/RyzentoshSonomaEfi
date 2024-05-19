@@ -22,6 +22,7 @@ This repository provides a comprehensive guide for installing macOS on an AMD Ry
 To set up macOS on your AMD Ryzen 5 5600X system, follow the detailed installation instructions provided [here]
 ## Screenshots:
 ![Screenshot](Screenshot%202024-05-19%20at%2010.55.46.png)
+![Screenshot](Screenshot 2024-05-19 at 11.19.14.png)
 
 Include screenshots demonstrating successful macOS installation and usage.
 
